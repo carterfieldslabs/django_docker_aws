@@ -1,1 +1,1 @@
-# django_docker_aws
+# django-docker-aws
